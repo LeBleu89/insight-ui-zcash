@@ -60,7 +60,7 @@ angular.module('insight')
     $locationProvider.hashPrefix('!');
   })
   .run(function($rootScope, $route, $location, $routeParams, $anchorScroll, ngProgress, gettextCatalog, amMoment) {
-    gettextCatalog.currentLanguage = defaultLanguage;
+    gettextCatalog.currentLanguage = 'fr';
     amMoment.changeLocale(defaultLanguage);
     $rootScope.$on('$routeChangeStart', function() {
       ngProgress.start();
