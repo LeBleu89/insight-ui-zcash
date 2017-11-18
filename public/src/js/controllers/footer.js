@@ -26,7 +26,11 @@ angular.module('insight.system').controller('FooterController',
     }, {
       name: 'Japanese',
       isoCode: 'ja',
+    }, {
+      name: 'French',
+      isoCode: 'fr',
     }];
+
 
     $scope.setLanguage = function(isoCode) {
       gettextCatalog.currentLanguage = $scope.defaultLanguage = defaultLanguage = isoCode;

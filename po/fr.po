@@ -101,7 +101,7 @@ msgstr ""
 
 #: public/views/includes/header.html
 msgid "Charts"
-msgstr "Graphiques"
+msgstr "Stats"
 
 #: public/views/status.html
 msgid "Connections to other nodes"
