@@ -154,7 +154,7 @@ msgstr ""
 #: public/views/block.html public/views/block_list.html public/views/index.html
 #: public/views/status.html public/views/includes/header.html
 msgid "Height"
-msgstr "Taille"
+msgstr "Hauteur"
 
 #: public/views/transaction.html public/views/transaction/tx.html
 msgid "Included in Block"
@@ -170,7 +170,7 @@ msgstr "Information Erreurs"
 
 #: public/views/status.html
 msgid "Initial Block Chain Height"
-msgstr "Taille de la Blockchain"
+msgstr "Hauteur de la Blockchain"
 
 #: public/views/transaction.html
 msgid "Input"
@@ -190,7 +190,7 @@ msgstr "Derniers Blocks"
 
 #: public/views/index.html
 msgid "Latest Transactions"
-msgstr "Dernière Transaction"
+msgstr "Dernièes Transactions"
 
 #: public/views/address.html
 msgid "Loading Address Information"
