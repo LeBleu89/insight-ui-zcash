@@ -26,6 +26,11 @@ msgstr ""
 "Instance insight hébergée et traduite par <strong><a href=\"https://zcashfr.io/\" target=\"_blank\">Zcash FR</a></strong>\n"
 "<strong>insight</strong> est un <a href=\"https://insight.is/\" target=\"_blank\"> explorateur de blockchain Zcash open source</a> avec une API REST et websocket. Plus d'information : <a href=\"https://github.com/str4d/insight-ui-zcash\" target=\"_blank\">code source</a>."
 
+#: public/views/404.html
+msgid "API docs are <a href="https://www.npmjs.com/package/insight-bitcore-api">here</a>"
+msgstr "Documentation de l'API disponible <a href="https://www.npmjs.com/package/insight-bitcore-api">ici</a>"
+
+
 #: public/views/index.html
 msgid "<strong>insight</strong> is still in development, so be sure to report any bugs and provide feedback for improvement at our <a href=\"https://github.com/str4d/insight-ui-zcash/issues\" target=\"_blank\">github issue tracker</a>."
 msgstr "<strong>insight</strong> est en cours de développement, merci de nous aider à l'améliorer en nous signalant les bugs et améliorations sur la page <a href=\"https://github.com/str4d/insight-ui-zcash/issues\" target=\"_blank\">du projet</a>."
