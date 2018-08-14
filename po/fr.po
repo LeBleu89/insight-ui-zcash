@@ -195,7 +195,7 @@ msgstr "Derniers Blocks"
 
 #: public/views/index.html
 msgid "Latest Transactions"
-msgstr "Dernièes Transactions"
+msgstr "Dernières Transactions"
 
 #: public/views/address.html
 msgid "Loading Address Information"
